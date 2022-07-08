@@ -1,0 +1,6 @@
+ShoppingList:
+
+Äpfel
+Bananen
+Tomaten
+Gurke
